@@ -49,4 +49,6 @@ public class Main {
         System.out.print("No");
 
     }
+    //추가
+    //무한 반복이 아닌 이중포문으로 두번째 포문에서 i+j로 순회 하는 방식이 더 깔끔한듯.
 }
